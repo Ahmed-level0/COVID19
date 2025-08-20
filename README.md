@@ -54,8 +54,8 @@
 📦 covid19-analysis
  ┣ analysis.ipynb
  ┣ Covid19.csv
- ┗ README.html
+ ┗ README.md
   </pre>
 
   <h2>Author</h2>
-  <p><b>Ahmed Hambuta</b> – Data Enthusiast & Analyst</p>
+  <p><b>Ahmed Hambuta</b></p>
