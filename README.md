@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>COVID-19 Analysis - README</title>
-</head>
-<body>
   <h1>COVID-19 Data Cleaning & Exploratory Analysis</h1>
   <p>This project focuses on cleaning, processing, and analyzing COVID-19 data obtained from WHO.</p>
 
@@ -73,5 +66,3 @@
     تم معالجة القيم المفقودة، إعادة بناء القيم اليومية من الأعمدة التراكمية، 
     ورسم مخططات خطية لعدد الحالات والوفيات، بالإضافة إلى Count Plot حسب الأقاليم.
   </p>
-</body>
-</html>
